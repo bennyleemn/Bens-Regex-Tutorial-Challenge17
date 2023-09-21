@@ -26,7 +26,8 @@ Open the Readme in the Github Gist.
 
 ## Usage
 
-For Review
+For Review - here is the gist:
+https://gist.github.com/bennyleemn/a8dae83d0e1316bfca6b5c137ed321b7
 
 ## Contributing
 
